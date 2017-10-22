@@ -1,0 +1,15 @@
+-R src repl
+
+src/CatProperty.v
+src/Functor.v
+src/Hom_Equality.v
+src/Setoid_dup1.v
+src/Setoid_dup2.v
+src/SetoidPROD.v
+src/Dual.v
+src/Relations.v
+src/Setoid.v
+src/Map.v
+src/Map2.v
+src/Category.v
+src/Alg.v

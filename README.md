@@ -1,0 +1,18 @@
+# F-Algebras in Coq
+
+## Prerequisites
+
+    opam repo add coq-released https://coq.inria.fr/opam/released
+    opam install -j4 -v coq-concat
+
+## Extract
+
+    ./configure.sh
+    make
+
+# Credits
+
+* Maxim Sokhatsky
+* Denys Stoyanov
+
+OM A HUM
