@@ -1,7 +1,5 @@
--R src repl
+-R src ""
 
-src/CatProperty.v
-src/Functor.v
 src/Hom_Equality.v
 src/Setoid_dup1.v
 src/Setoid_dup2.v
@@ -12,4 +10,6 @@ src/Setoid.v
 src/Map.v
 src/Map2.v
 src/Category.v
+src/CatProperty.v
+src/Functor.v
 src/Alg.v
